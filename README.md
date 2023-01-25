@@ -1,4 +1,4 @@
-
+By @Daniel Yoshida and @Alice Chuang
 
 # Basket App
 Add groceries to your Basket!
